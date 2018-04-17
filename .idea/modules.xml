@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MultipleActivities.iml" filepath="$PROJECT_DIR$/MultipleActivities.iml" />
+      <module fileurl="file://C:\Users\David\AndroidStudioProjects\android-multiple-activities\MultipleActivities.iml" filepath="C:\Users\David\AndroidStudioProjects\android-multiple-activities\MultipleActivities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-multiple-activities.iml" filepath="$PROJECT_DIR$/android-multiple-activities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
 </project>
